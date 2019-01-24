@@ -1,4 +1,4 @@
 <?php
-	echo "Hello, Brother";
-	echo "Hello, second Brother";
+	$i="change file";
+	echo $i;
 ?>
